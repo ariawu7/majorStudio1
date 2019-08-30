@@ -1,5 +1,8 @@
-## Major Studio 1
+# Major Studio 1
 
-### Aug 26
+## World Trade Center
 
-→ World Trade Center
+### AEIOU Design method
+
+### Behavioral Mapping
+<img src="images/behavioralMapping.PNG" width="400">
