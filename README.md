@@ -1,7 +1,8 @@
 # Major Studio 1
 
 ## World Trade Center
-//img
+<img src="images/WTC.JPG" width="700">
+<img src="images/WTC2.jpg" width="700">
 
 ### AEIOU Design Method
 <img src="images/AEIOU.png" width="700">
@@ -11,5 +12,6 @@ Since most of the people were justing walking through the square, we decided to 
 <img src="images/behavioralMapping.PNG" width="400">
 
 ### Brainstorming Tree
+<img src="images/brainstorming.png" width="500">
 
 ### Concept Sketch
