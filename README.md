@@ -15,3 +15,7 @@ Since most of the people were justing walking through the square, we decided to 
 <img src="images/brainstorming.png" width="500">
 
 ### Concept Sketch
+<img src="images/conceptSketch1.png" width="500">
+<img src="images/conceptSketch2.png" width="500">
+<img src="images/conceptSketch3.png" width="500">
+<img src="images/conceptSketch4.png" width="500">
