@@ -6,7 +6,7 @@
 
 ### AEIOU Design Method
 <img src="images/AEIOU.png" width="700">
-Since most of the people were justing walking through the square, we decided to focus on those poeple who used the cloud shape benches in the World Trade Center.
+Since most of the people were just walking through the square, we decided to focus on those poeple who used the cloud shape benches in the World Trade Center.
 
 ### Behavioral Mapping
 <img src="images/behavioralMapping.PNG" width="700">
