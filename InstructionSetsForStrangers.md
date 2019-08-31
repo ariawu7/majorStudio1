@@ -9,10 +9,10 @@
 Since most of the people were justing walking through the square, we decided to focus on those poeple who used the cloud shape benches in the World Trade Center.
 
 ### Behavioral Mapping
-<img src="images/behavioralMapping.PNG" width="400">
+<img src="images/behavioralMapping.PNG" width="700">
 
 ### Brainstorming Tree
-<img src="images/brainstorming.png" width="500">
+<img src="images/brainstorming.png" width="700">
 
 ### Concept Sketch
 <img src="images/conceptSketch.JPEG" width="1000">
