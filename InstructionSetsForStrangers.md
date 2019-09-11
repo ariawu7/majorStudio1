@@ -1,6 +1,3 @@
----
-driveId: 1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/preview
----
 # Major Studio 1
 
 ## World Trade Center
@@ -42,7 +39,7 @@ When someone sits down, the lights are on.
 <img src="https://raw.githubusercontent.com/haoran9624/HaoranHaoran/master/images/999.jpg" width="700">
 
 ### On-site Testing
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html id=page.1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/preview %}
 
 Users' Activities
 - Sitting
