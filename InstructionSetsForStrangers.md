@@ -1,3 +1,6 @@
+---
+driveId: 1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/preview
+---
 # Major Studio 1
 
 ## World Trade Center
@@ -39,5 +42,4 @@ When someone sits down, the lights are on.
 <img src="https://raw.githubusercontent.com/haoran9624/HaoranHaoran/master/images/999.jpg" width="700">
 
 ### On-site Testing
-<iframe src="https://player.vimeo.com/video/359237818" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<iframe width="480" height="360" src="https://vimeo.com/359237818" frameborder="0"> </iframe>
+{% include googleDrivePlayer.html id=page.driveId %}
