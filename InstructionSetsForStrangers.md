@@ -41,6 +41,7 @@ When someone sits down, the lights are on.
 ### On-site Testing
 {% include googleDrivePlayer.html id=page.1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/preview %}
 
+
 Users' Activities
 - Sitting
 - Taking photos
