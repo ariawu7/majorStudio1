@@ -43,3 +43,18 @@ When someone sits down, the lights are on.
 
 ### On-site Testing
 {% include googleDrivePlayer.html id=page.driveId %}
+
+Users' Activities
+- Sitting
+- Taking photos
+- Jumping up and down & crawling
+- Chat with the maker
+
+Feedback
+- A visitor said it’s really cute!
+- Changing of the status of lights could make the interaction longer.
+- People are willing to sit down to make the lights always on.
+
+Problems
+- Technical Problem: Power supply.
+- The time of people using the bench is not very long.
