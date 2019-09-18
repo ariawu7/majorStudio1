@@ -55,3 +55,37 @@ Feedback
 Problems
 - Technical Problem: Power supply.
 - The time of people using the bench is not very long.
+
+### Final Prototype
+<img src="images/cloud.jpeg" width="1000">
+
+Inspirations
+- Peace dove
+
+Dove is a symbol of peace. The designer of the station, Santiago Calatrava, was inspired by a picture of a child releasing a dove. That’s why we use dove as an element in our installation.
+<img src="images/inspiration1.jpg" width="700">
+
+- The Ghost Festival
+
+The Ghost Festival is a traditional Buddhist festival held in certain East Asian countries. On that day, people release paper boats and lanterns on water to give directions to the lost ghosts and spirits of the ancestors.
+<img src="images/inspiration2.jpg" width="700">
+
+Sketch
+<img src="images/sketch.png" width="1000">
+We planned to use a cloud shape inflatable baby pool to match the other cloud shape benches in the Oculus, and we made a lot of transparent boxes with doves and LEDs in them. We decided to put a few of the boxes in the water to lead people to release other boxes in the water to create the feeling we want to convey.
+
+Making Process
+
+<img src="images/process1.GIF" width="700">
+<img src="images/process2.GIF" width="700">
+<img src="images/process3.GIF" width="700">
+
+Testing
+
+<img src="images/test.JPEG" width="1000">
+
+Final
+
+{% include googleDrivePlayer.html id=page.1ta1VIJ6kRS11R6sUyP324JcjOaYcs6iv/preview %}
+
+<img src="images/cloud.GIF" width="1000">
