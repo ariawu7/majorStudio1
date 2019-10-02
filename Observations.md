@@ -31,6 +31,7 @@ Suzhou has a history of 2,500 years. As a Suzhounese, I have a responsibility to
 <iframe width="600" height="400" src="https://live.amcharts.com/WM2YW/embed/" frameborder="0"></iframe>
 
 ### 7. Have you ever viewed Suzhou Pingtan or Kunqu?
+<iframe width="600" height="400" src="https://live.amcharts.com/JhMzk/embed/" frameborder="0"></iframe>
 
 ### 8. Have you ever been to any exhibitions or museums related to the history or culture of Suzhou?
 
