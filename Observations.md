@@ -13,6 +13,7 @@ Suzhou has a history of 2,500 years. As a Suzhounese, I have a responsibility to
 ## Sample Analysis
 
 ### 1. Year of Birth
+<iframe width="600" height="400" src="https://live.amcharts.com/YmRiM/embed/" frameborder="0"></iframe>
 
 ### 2. Gender
 <iframe width="600" height="400" src="https://live.amcharts.com/dmMTR/embed/" frameborder="0"></iframe>
