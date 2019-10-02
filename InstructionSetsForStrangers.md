@@ -39,7 +39,7 @@ When someone sits down, the lights are on.
 <img src="https://raw.githubusercontent.com/haoran9624/HaoranHaoran/master/images/999.jpg" width="700">
 
 ### On-site Testing
-{% include googleDrivePlayer.html id=page.1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/preview %}
+https://drive.google.com/file/d/1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/view?usp=sharing
 
 Users' Activities
 - Sitting
@@ -86,7 +86,7 @@ Testing
 
 Final!
 
-{% include googleDrivePlayer.html id=page.1ta1VIJ6kRS11R6sUyP324JcjOaYcs6iv/preview %}
+https://drive.google.com/file/d/1ta1VIJ6kRS11R6sUyP324JcjOaYcs6iv/view?usp=sharing
 
 <img src="images/cloud.GIF" width="1000">
 
