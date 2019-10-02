@@ -37,5 +37,6 @@ Suzhou has a history of 2,500 years. As a Suzhounese, I have a responsibility to
 <iframe width="600" height="400" src="https://live.amcharts.com/MwMjN/embed/" frameborder="0"></iframe>
 
 ### 9. Do you know any famous people in the history of Suzhou (Wu Zixu, Fan Zhongyan, Ye Shengtao, Fei Xiaotong, Ieoh Ming Pei, etc.)?
+<iframe width="600" height="400" src="https://live.amcharts.com/g1Zjh/embed/" frameborder="0"></iframe>
 
 ### 10. Would you like to know more history or culture of Suzhou?
