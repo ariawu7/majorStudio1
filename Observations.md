@@ -20,9 +20,9 @@ Suzhou has a history of 2,500 years. As a Suzhounese, I have a responsibility to
 
 ### 4. How well do you know about Suzhou dialect?
 
-### 5. Have you tried some Suzhou special food (green dumplings, lard rice cakes, sugar congee, Gorgon (chicken head Rice), etc.)?
+### 5. Have you tried some Suzhou special food (Green dumplings, Lard rice cakes, Sugar congee, Jitoumi (gorgon fruit seed), etc.)?
 
-### 6. Have you ever been to a scenic spot in Suzhou (Qili Shantang, Luzhi ancient town, Suzhou Garden, etc.)?
+### 6. Have you ever been to a scenic spot in Suzhou (Seven-mile Shantang, Luzhi Ancient Town, Classical Gardens of Suzhou, etc.)?
 
 ### 7. Have you ever viewed Suzhou Pingtan or Kunqu?
 
