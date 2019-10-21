@@ -7,3 +7,5 @@
 [Me, My Data](MeMyData.md)
 
 [Post mid-term personal reflection](PostMidtermPersonalReflection.md)
+
+[7 in 7](7in7.md)
