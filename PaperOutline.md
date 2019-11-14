@@ -7,10 +7,10 @@ My hometown Suzhou is a major city in the southeastern part of Jiangsu Province 
 History and culture of Suzhou, Classical Gardens of Suzhou, children living in Suzhou, educate, experience
 
 ### Introduction
-immigration → loss of culture & history
-basic intro of Suzhou
-survey & sample analysis
-research
+- immigration → loss of culture & history
+- basic intro of Suzhou
+- survey & sample analysis
+- research
 
 ### Precedents
 
