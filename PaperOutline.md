@@ -15,9 +15,9 @@ research
 ### Precedents
 
 ### Project Description
-how it looks like
-how it works
-what experience I'd like to bring to the audiences
-test & feedback
+- how it looks like
+- how it works
+- what experience I'd like to bring to the audiences
+- test & feedback
 
 ### Conclusion
