@@ -14,4 +14,4 @@
 
 [Moodboard](Moodboard.md)
 
-[Paper Draft](PaperDraft.md)
+[Paper Draft](https://drive.google.com/file/d/1nul94Q7Mgk-i5r6fuFd8DI2rTdUzwCrA/view?usp=sharing)
