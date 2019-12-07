@@ -13,3 +13,5 @@
 [Paper Outline](PaperOutline.md)
 
 [Moodboard](Moodboard.md)
+
+[Paper Draft](PaperDraft.md)
