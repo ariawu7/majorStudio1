@@ -38,8 +38,7 @@ If there is nobody sitting on the cloud, the lights will blink to attract pedest
 When someone sits down, the lights are on.
 <img src="https://raw.githubusercontent.com/haoran9624/HaoranHaoran/master/images/999.jpg" width="700">
 
-### On-site Testing
-https://drive.google.com/file/d/1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/view?usp=sharing
+### [On-site Testing](https://drive.google.com/file/d/1cl6HQE6kdBkBQQxDZ1znxLBi5kjeii0F/view?usp=sharing)
 
 Users' Activities
 - Sitting
@@ -86,7 +85,7 @@ Testing
 
 Final!
 
-https://drive.google.com/file/d/1ta1VIJ6kRS11R6sUyP324JcjOaYcs6iv/view?usp=sharing
+### [Video](https://drive.google.com/file/d/1ta1VIJ6kRS11R6sUyP324JcjOaYcs6iv/view?usp=sharing)
 
 <img src="Imgs_InstructionSets/cloud.GIF" width="1000">
 
