@@ -1,4 +1,4 @@
-# Major Studio 1
+# Instruction Sets For Strangers
 
 ## World Trade Center
 <img src="Imgs_InstructionSets/WTC.JPG" width="700">
