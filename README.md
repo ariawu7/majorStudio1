@@ -6,4 +6,4 @@
 ----------------------------------------------------------------------
 
 ## [Final Project](FinalProject.md)
-<img src="images/coverImg.gif" width="1000">
+<img src="images/coverImg2.jpg" width="1000">
