@@ -73,12 +73,6 @@ Sketch
 <img src="Imgs_InstructionSets/sketch.png" width="1000">
 We planned to use a cloud shape inflatable baby pool to match the other cloud shape benches in the Oculus, and we made a lot of transparent boxes with doves and LEDs in them. We decided to put a few of the boxes in the water to lead people to release other boxes in the water to create the feeling we want to convey.
 
-Making Process
-
-<img src="Imgs_InstructionSets/process1.GIF" width="700">
-<img src="Imgs_InstructionSets/process2.GIF" width="700">
-<img src="Imgs_InstructionSets/process3.GIF" width="700">
-
 Testing
 
 <img src="Imgs_InstructionSets/test.JPEG" width="1000">
