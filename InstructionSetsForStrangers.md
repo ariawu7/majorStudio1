@@ -85,7 +85,7 @@ Testing
 
 ----------------------------------------------------------------------
 
-# Final Outcome
+### Final Outcome
 
 <img src="Imgs_InstructionSets/cloud.GIF" width="1000">
 
@@ -93,6 +93,6 @@ Testing
 
 ----------------------------------------------------------------------
 
-Reflection
+### Reflection
 
 We kind of completely changed our idea at the third week, which is the final week, so I think the final prototype will be much nicer if we stick on this final idea for the whole three week's process. When we did the on-site testing for the first and second prototype, there was nobody trying to prevent us from setting up in the Oculus. However, when we did the setup for the final prototype, the security did not allow us to set our project up not only inside the Oculus but also next to the 911 Memorial. This emergency disrupted us and our plan was in a mess. Although the prototype looked nice after a whole day's working, I still think that if we can ask the security before deciding to work with water inside the Oculus, the result will be better.
