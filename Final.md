@@ -1,8 +1,10 @@
-# Final Project
-
-### [Video](https://drive.google.com/file/d/1eYF1EuOIW0fORuKKcI_jGn5NyjwkC-pY/view?usp=sharing)
+# Final Outcome & Reflection
 
 <img src="images/coverImg.gif" width="1000">
+
+This is an interactive installation shows the concept and the artistic characteristics of the window design in the Classical Gardens of Suzhou. It allows the children living in Suzhou to play with different window frames and see the different scenery through those windows to find the connections between the patterns of the windows and the meanings behind them.
+
+### [Video](https://drive.google.com/file/d/1eYF1EuOIW0fORuKKcI_jGn5NyjwkC-pY/view?usp=sharing)
 
 ### Reflection
 
