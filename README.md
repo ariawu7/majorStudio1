@@ -5,5 +5,5 @@
 
 ----------------------------------------------------------------------
 
-## Final Project(FinalProject.md)
+## [Final Project](FinalProject.md)
 <img src="images/coverImg.gif" width="1000">
