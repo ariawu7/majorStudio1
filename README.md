@@ -7,16 +7,16 @@
 
 ## Final Project
 
-### [Observations](Observations.md)
+ - ### [Observations](Observations.md)
 
-### [Me, My Data](MeMyData.md)
+ - ### [Me, My Data](MeMyData.md)
 
-### [Post mid-term personal reflection](PostMidtermPersonalReflection.md)
+ - ### [Post mid-term personal reflection](PostMidtermPersonalReflection.md)
 
-### [7 in 7](7in7.md)
+ - ### [7 in 7](7in7.md)
 
-### [Paper Outline](PaperOutline.md)
+ - ### [Paper Outline](PaperOutline.md)
 
-### [Moodboard](Moodboard.md)
+ - ### [Moodboard](Moodboard.md)
 
-### [Final](Final.md)
+ - ### [Final Outcome & Reflection](Final.md)
